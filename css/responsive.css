@@ -1,0 +1,25 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+    .lessons1 {
+        /* align-self: center; */
+        background-color: #F2F2F2;
+        margin: 50px 10px;
+        display: inline-block;
+        width: 600px auto;
+        padding: 30px;
+        border-radius: 30px;
+    }
+  }
+  
+  /* Untuk Smartphone */
+  @media all and (max-width: 670px) {
+    .lessons1 {
+        /* align-self: center; */
+        background-color: #F2F2F2;
+        /* margin: 50px 0px; */
+        display: inline-block;
+        width: 100% auto;
+        padding: 30px;
+        border-radius: 30px;
+    }
+  }
